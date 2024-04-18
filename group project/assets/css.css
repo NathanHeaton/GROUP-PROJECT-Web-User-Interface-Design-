@@ -61,3 +61,99 @@ nav{
 }
 
 /**/
+
+/* user experience page  ------------------------------ */
+
+.intro
+{
+    gap: 10px; 
+}
+
+.intro-1
+{
+    padding: 10px;
+}
+
+.intro-1 h1
+{
+    text-align: center;
+    font-size: 40px;/*size*/
+    font-family:'Times New Roman', Times, serif;
+    color: yellow;
+}
+
+.intro-1 p
+{
+    text-align: left;
+    font-size: 20px;/*size*/
+    font-family:'Times New Roman', Times, serif;
+    color: yellow;
+}
+
+.benefits
+{
+    gap: 10px; 
+}
+
+.benefits h1
+{
+    text-align: center;
+    font-size: 35px;/*size*/
+    font-family:'Times New Roman', Times, serif;
+    color: yellow;
+}
+
+.benefits h2
+{
+    text-align: center;
+    font-size: 30px;/*size*/
+    font-family:'Times New Roman', Times, serif;
+    color: yellow;
+    padding-top: 20px;
+}
+
+
+.benefits p1
+{
+    text-align: left;
+    font-size: 20px;/*size*/
+    font-family:'Times New Roman', Times, serif;
+    color: yellow;
+}
+
+.benefits h3
+{
+    text-align: center;
+    font-size: 30px;/*size*/
+    font-family:'Times New Roman', Times, serif;
+    color: yellow;
+    padding-top: 20px;
+}
+
+
+.benefits p2
+{
+    text-align: left;
+    font-size: 20px;/*size*/
+    font-family:'Times New Roman', Times, serif;
+    color: yellow;
+}
+
+.benefits h4
+{
+    text-align: center;
+    font-size: 30px;/*size*/
+    font-family:'Times New Roman', Times, serif;
+    color: yellow;
+    padding-top: 20px;
+}
+
+
+.benefits p3
+{
+    text-align: left;
+    font-size: 20px;/*size*/
+    font-family:'Times New Roman', Times, serif;
+    color: yellow;
+}
+/**/
