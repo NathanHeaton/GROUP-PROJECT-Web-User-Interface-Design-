@@ -129,7 +129,7 @@ nav{
 {
     text-align: center;
     font-size: 40px;/*size*/
-    font-family:'Times New Roman', Times, serif;
+    font-family:'Source Sans Pro', sans-serif;
     color: yellow;
 }
 
@@ -137,8 +137,8 @@ nav{
 {
     text-align: left;
     font-size: 20px;/*size*/
-    font-family:'Times New Roman', Times, serif;
-    color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
 }
 
 .benefits
@@ -150,7 +150,7 @@ nav{
 {
     text-align: center;
     font-size: 35px;/*size*/
-    font-family:'Times New Roman', Times, serif;
+    font-family:'Source Sans Pro', sans-serif;
     color: yellow;
 }
 
@@ -158,7 +158,7 @@ nav{
 {
     text-align: center;
     font-size: 30px;/*size*/
-    font-family:'Times New Roman', Times, serif;
+    font-family:'Source Sans Pro', sans-serif;
     color: yellow;
     padding-top: 20px;
 }
@@ -168,15 +168,15 @@ nav{
 {
     text-align: left;
     font-size: 20px;/*size*/
-    font-family:'Times New Roman', Times, serif;
-    color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
 }
 
 .benefits h3
 {
     text-align: center;
     font-size: 30px;/*size*/
-    font-family:'Times New Roman', Times, serif;
+    font-family:'Source Sans Pro', sans-serif;
     color: yellow;
     padding-top: 20px;
 }
@@ -186,15 +186,15 @@ nav{
 {
     text-align: left;
     font-size: 20px;/*size*/
-    font-family:'Times New Roman', Times, serif;
-    color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
 }
 
 .benefits h4
 {
     text-align: center;
     font-size: 30px;/*size*/
-    font-family:'Times New Roman', Times, serif;
+    font-family:'Source Sans Pro', sans-serif;
     color: yellow;
     padding-top: 20px;
 }
@@ -204,8 +204,75 @@ nav{
 {
     text-align: left;
     font-size: 20px;/*size*/
-    font-family:'Times New Roman', Times, serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.Key-Components-of-UX
+{
+    gap: 10px; 
+}
+
+.Key-Components-of-UX h1
+{
+    text-align: center;
+    font-size: 35px;/*size*/
+    font-family:'Source Sans Pro', sans-serif;
     color: yellow;
+}
+
+.Key-Components-of-UX h2
+{
+    text-align: center;
+    font-size: 30px;/*size*/
+    font-family:'Source Sans Pro', sans-serif;
+    color: yellow;
+    padding-top: 20px;
+}
+
+
+.Key-Components-of-UX p1
+{
+    text-align: left;
+    font-size: 20px;/*size*/
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.Key-Components-of-UX h3
+{
+    text-align: center;
+    font-size: 30px;/*size*/
+    font-family:'Source Sans Pro', sans-serif;
+    color: yellow;
+    padding-top: 20px;
+}
+
+
+.Key-Components-of-UX p2
+{
+    text-align: left;
+    font-size: 20px;/*size*/
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.Key-Components-of-UX h4
+{
+    text-align: center;
+    font-size: 30px;/*size*/
+    font-family:'Source Sans Pro', sans-serif;
+    color: yellow;
+    padding-top: 20px;
+}
+
+
+.Key-Components-of-UX p3
+{
+    text-align: left;
+    font-size: 20px;/*size*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
 }
 /**/
 
