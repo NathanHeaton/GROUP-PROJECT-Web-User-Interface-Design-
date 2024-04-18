@@ -274,5 +274,108 @@ nav{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
 }
+
+.Key-Components-of-UX h5
+{
+    text-align: center;
+    font-size: 30px;/*size*/
+    font-family:'Source Sans Pro', sans-serif;
+    color: yellow;
+    padding-top: 20px;
+}
+
+
+.Key-Components-of-UX p4
+{
+    text-align: left;
+    font-size: 20px;/*size*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.Key-Components-of-UX h6
+{
+    text-align: center;
+    font-size: 30px;/*size*/
+    font-family:'Source Sans Pro', sans-serif;
+    color: yellow;
+    padding-top: 20px;
+}
+
+
+.Key-Components-of-UX p5
+{
+    text-align: left;
+    font-size: 20px;/*size*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.Approach
+{
+    gap: 10px; 
+}
+
+.Approach h1
+{
+    text-align: center;
+    font-size: 35px;/*size*/
+    font-family:'Source Sans Pro', sans-serif;
+    color: yellow;
+}
+
+.Approach h2
+{
+    text-align: center;
+    font-size: 30px;/*size*/
+    font-family:'Source Sans Pro', sans-serif;
+    color: yellow;
+    padding-top: 20px;
+}
+
+
+.Approach p1
+{
+    text-align: left;
+    font-size: 20px;/*size*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.Approach h3
+{
+    text-align: center;
+    font-size: 30px;/*size*/
+    font-family:'Source Sans Pro', sans-serif;
+    color: yellow;
+    padding-top: 20px;
+}
+
+
+.Approach p2
+{
+    text-align: left;
+    font-size: 20px;/*size*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.Approachh4
+{
+    text-align: center;
+    font-size: 30px;/*size*/
+    font-family:'Source Sans Pro', sans-serif;
+    color: yellow;
+    padding-top: 20px;
+}
+
+
+.Approach p3
+{
+    text-align: left;
+    font-size: 20px;/*size*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
 /**/
 
