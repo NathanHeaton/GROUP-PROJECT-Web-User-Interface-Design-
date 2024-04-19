@@ -12,7 +12,7 @@
             <div class="yellow-box-title">
             <h1>UCD and Usability</h1>
             </div>
-            <nav>
+            <nav class="top-nav">
                 <div class="yellow-box">
                     <a class="nav-link" href="index.html">Home</a>
                 </div>
@@ -33,30 +33,49 @@
                 </div>
             </nav>
             <div class="yellow-box-end">
-                    
+                <button class="mobile hamburger"><img src="assets/hamburger-menu-nav.png" alt="Menu" width="50px" height="auto"></button>
             </div>
         </header>
+        <nav class="mobile-nav mobile">
+            <div class="yellow-box">
+                <a class="nav-link" href="index.html">Home</a>
+            </div>
+            <div class="yellow-box">
+            <a class="nav-link" href="UsabilityHeuristics.html">10 UsabilityHeuristics</a>
+            </div>
+            <div class="yellow-box">
+            <a class="nav-link" href="UserCenteredDesign.html">User Centered Design</a>
+            </div>
+            <div class="yellow-box">
+            <a class="nav-link" href="UserExperince.html">UX</a>
+            </div>
+            <div class="yellow-box">
+            <a class="nav-link" href="contactUs.html">Contact</a>
+            </div>
+            <div class="yellow-box">
+            <a class="nav-link" href="Wireframing.html">Wireframing</a>
+            </div>
+        </nav>
         <main>
             <section class="main-content" id="home-grid">
                 <section class="Centered-text" id="home-item1">
                     <h1 id="home-title">Learn User Centered Design and Usability </h1>
-                    <p>This website will teach you all you need to know about UCD, UX, usability and Wireframing.</p>
+                    <p class="white-text">This website will teach you all you need to know about UCD, UX, usability and Wireframing.</p>
                     <a class="nav-link" href="UsabilityHeuristics.html"><button class="btn" >Get Started</button></a>
 
                 </section>
                 <section class="text-box blue" id="home-item2">
-                    <h1 class="white-text">10 Usability Hueristics</h1>
-                    <p>The ten usability hueristics are very important to keep in mind when developing websites. Here are the headings:<br>
-                        1: Visibility of System Status<br>
-                        2: Match Between the System and the Real World<br>
-                        3: User Control and Freedom<br>
-                        4: Consistency and Standards<br>
-                        5: Error Prevention<br>
-                        6: Recognition Rather than Recall<br>
-                        7: Flexibility and Efficiency of Use<br>
-                        8: Aesthetic and Minimalist Design<br>
-                        9: Help Users Recognize, Diagnose, and Recover from Errors<br>
-                        10: Help and Documentation </p>
+                    <h1 class="black-text">Welcome to Our Website</h1>
+                    <p class="black-text">We hope we can all teach visitors about user-centered design, user experience, and wireframing basics. We will make learning these concepts 
+                        easy by showing good and bad examples/uses along with detailed information and multimedia. By providing a comprehensive learning experience, we aim to equip
+                         visitors with the knowledge and skills necessary to create user-friendly and intuitive designs.
+                        <br><br>
+                        User-centered design is crucial for modern product development, focusing on creating solutions that meet end-users' needs and preferences. 
+                        Visitors will gain insights into techniques like user research, persona creation, and usability testing, essential for understanding and catering
+                         to the target audience. We will explore user experience design principles, including information architecture, interaction design, and visual design.
+                          Real-world examples of effective and ineffective implementations will help visitors identify and resolve usability issues. Visitors will also 
+                        learn to create low-fidelity prototypes that facilitate communication, collaboration, and iterative refinement before investing significant resources in development.
+                    </p>
 
                 </section>
                 <div id="home-item3" class="image-box-curved">
@@ -80,7 +99,8 @@
 
             </section>
         </footer>
-
-       <script src="assets/file.js"></script>
+        <!-- jquery -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+        <script src="assets/file.js"></script>
     </body>
 </html>
