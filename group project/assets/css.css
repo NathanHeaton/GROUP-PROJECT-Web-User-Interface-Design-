@@ -418,7 +418,7 @@ color: rgb(0, 0, 0);
     color: white;
 }
 
-.Approachh4
+.Approach h4
 {
     text-align: center;
     font-size: 30px;/*size*/
@@ -434,6 +434,91 @@ color: rgb(0, 0, 0);
     font-size: 20px;/*size*/
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
+}
+
+.Approach h5
+{
+    text-align: center;
+    font-size: 30px;/*size*/
+    font-family:'Source Sans Pro', sans-serif;
+    color: yellow;
+    padding-top: 20px;
+}
+
+
+.Approach p4
+{
+    text-align: left;
+    font-size: 20px;/*size*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.Good-Example
+{
+    gap: 10px; 
+}
+
+.Good-Example h1
+{
+    text-align: center;
+    font-size: 30px;/*size*/
+    font-family:'Source Sans Pro', sans-serif;
+    color: yellow;
+    padding-top: 20px;
+}
+
+.Good-Example p1
+{
+    text-align: left;
+    font-size: 20px;/*size*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+ 
+.Bad-Example
+{
+    gap: 10px; 
+}
+
+.Bad-Example h1
+{
+    text-align: center;
+    font-size: 30px;/*size*/
+    font-family:'Source Sans Pro', sans-serif;
+    color: yellow;
+    padding-top: 20px;
+}
+
+.Bad-Example p1
+{
+    text-align: left;
+    font-size: 20px;/*size*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.Ending
+{
+    gap: 10px;  
+}
+
+.Ending h1
+{
+    text-align: center;
+    font-size: 30px;/*size*/
+    font-family:'Source Sans Pro', sans-serif;
+    color: yellow;
+    padding-top: 20px;
+}
+
+.Ending p1
+{
+    text-align: left;
+    font-size: 20px;/*size*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    padding-bottom: 50px;
 }
 /**/
 
