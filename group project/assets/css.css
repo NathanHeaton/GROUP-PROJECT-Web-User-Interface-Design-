@@ -578,7 +578,7 @@ color: rgb(0, 0, 0);
     padding-top: 20px;
 }
 
-.Opening-1 p1
+.Opening-1 p
 {
     text-align: left;
     font-size: 20px;/*size*/
@@ -586,8 +586,226 @@ color: rgb(0, 0, 0);
     color: white;
 }
 
+.Steps-1
+{
+    gap: 10px;
+    padding:10px ;
+}
 
+.Steps-1 h1
+{
+    text-align: center;
+    font-size: 30px;/*size*/
+    font-family:'Source Sans Pro', sans-serif;
+    color: yellow;
+    padding-top: 20px;
+}
 
+.Steps-1 h2
+{
+    text-align: center;
+    font-size: 30px;/*size*/
+    font-family:'Source Sans Pro', sans-serif;
+    color: yellow;
+    padding-top: 20px;
+}
+
+.Steps-1 ul
+{
+    text-align: left;
+    font-size: 20px;/*size*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.Steps-2
+{
+    gap: 10px;
+    padding:10px ;
+}
+
+.Steps-2 h1
+{
+    text-align: center;
+    font-size: 30px;/*size*/
+    font-family:'Source Sans Pro', sans-serif;
+    color: yellow;
+    padding-top: 20px;
+}
+
+.Steps-2 ul
+{
+    text-align: left;
+    font-size: 20px;/*size*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.Steps-3
+{
+    gap: 10px;
+    padding:10px ;
+}
+
+.Steps-3 h1
+{
+    text-align: center;
+    font-size: 30px;/*size*/
+    font-family:'Source Sans Pro', sans-serif;
+    color: yellow;
+    padding-top: 20px;
+}
+
+.Steps-3 ul
+{
+    text-align: left;
+    font-size: 20px;/*size*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.Steps-4
+{
+    gap: 10px;
+    padding:10px ;
+}
+
+.Steps-4 h1
+{
+    text-align: center;
+    font-size: 30px;/*size*/
+    font-family:'Source Sans Pro', sans-serif;
+    color: yellow;
+    padding-top: 20px;
+}
+
+.Steps-4 ul
+{
+    text-align: left;
+    font-size: 20px;/*size*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.Steps-5
+{
+    gap: 10px;
+    padding:10px ;
+}
+
+.Steps-5 h1
+{
+    text-align: center;
+    font-size: 30px;/*size*/
+    font-family:'Source Sans Pro', sans-serif;
+    color: yellow;
+    padding-top: 20px;
+}
+
+.Steps-5 ul
+{
+    text-align: left;
+    font-size: 20px;/*size*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.Steps-6
+{
+    gap: 10px;
+    padding:10px ;
+}
+
+.Steps-6 h1
+{
+    text-align: center;
+    font-size: 30px;/*size*/
+    font-family:'Source Sans Pro', sans-serif;
+    color: yellow;
+    padding-top: 20px;
+}
+
+.Steps-6 ul
+{
+    text-align: left;
+    font-size: 20px;/*size*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.Benefits
+{
+    gap: 10px;
+    padding:10px ;
+}
+
+.Benefits h1
+{
+    text-align: center;
+    font-size: 30px;/*size*/
+    font-family:'Source Sans Pro', sans-serif;
+    color: yellow;
+    padding-top: 20px;
+}
+
+.Benefits ul
+{
+    text-align: left;
+    font-size: 20px;/*size*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.b
+{
+    color: yellow;
+}
+
+.Mistakes
+{
+    gap: 10px;
+    padding:10px ;
+}
+
+.Mistakes h1
+{
+    text-align: center;
+    font-size: 30px;/*size*/
+    font-family:'Source Sans Pro', sans-serif;
+    color: yellow;
+    padding-top: 20px;
+}
+
+.Mistakes ul
+{
+    text-align: left;
+    font-size: 20px;/*size*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.End
+{
+    gap: 10px;
+    padding:10px ;
+}
+
+.End h1
+{
+    text-align: center;
+    font-size: 30px;/*size*/
+    font-family:'Source Sans Pro', sans-serif;
+    color: yellow;
+    padding-top: 20px;
+}
+
+.End p
+{
+    text-align: left;
+    font-size: 20px;/*size*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
 
 /**/
 
