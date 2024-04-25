@@ -30,6 +30,10 @@ h1, h2 ,h3 ,a{
     
 }
 
+ol{
+    font-family: Verdana, sans-serif;
+}
+
 h1{
     font-size: 30px;
 }
@@ -45,11 +49,10 @@ a{
 
 }
 
-#home-title{
+.home-title{
     color: rgb(255, 255, 255);
     font-size: 40px;
-    margin: 10px;
-}
+    }
 
 /* nav ------------------------------ */
 .nav-link{
@@ -108,7 +111,7 @@ nav{
     margin: auto;
     margin-top: 80px;
     max-width: 1400px;
-    width: 80%;
+    width: 75%;
 
 }
 
@@ -120,6 +123,10 @@ nav{
 
 .yellow{
     background-color: rgb(223, 203, 95);
+}
+
+.light-yellow{
+    background-color: rgb(237, 212, 156);
 }
 
 .black-text{
@@ -143,7 +150,8 @@ nav{
 
 
 #two-column-grid{
-    margin-top: 10vh;
+    margin-top: calc(10vh + 30px);
+    
     display: grid;
     grid-template-columns: 1fr 1fr ;
     gap:15px;
@@ -185,10 +193,22 @@ color: rgb(0, 0, 0);
     border-radius: 15px;
 }
 
+.image-box-curved-shrunk{
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+
+}
+
 .text-box{
-    padding: 15px;
+    padding: 25px;
     border-radius: 15px;
     padding-right: 15% ;
+}
+
+.heading-box{
+    margin: 5px;
 }
 
 .Centered-text{
@@ -208,6 +228,12 @@ color: rgb(0, 0, 0);
     height: 100%;
     object-fit: cover;
     border-radius: 15px;
+}
+
+.image-fit{
+    width: 100%;
+    border-radius: 15px;
+    
 }
 /* user experience page  ------------------------------ */
 
@@ -429,7 +455,6 @@ color: rgb(0, 0, 0);
     color: yellow;
     padding-top: 20px;
 }
-
 
 .Approach p1
 {
@@ -809,6 +834,10 @@ color: rgb(0, 0, 0);
 
 /**/
 
+
+
+
+
 /* Mobile resposive */
 .mobile{
     display: none;
@@ -828,7 +857,7 @@ color: rgb(0, 0, 0);
     .mobile{display:contents;}
 
     .main-content{
-        width: 85%;
+        width: 90%;
     }
     /* nav --------------------*/
 
@@ -879,6 +908,13 @@ color: rgb(0, 0, 0);
     #home-item1{    grid-column: 1/2;}
     #home-item2{    grid-column: 1/2;}
     #home-item3{    grid-column: 1/2;}
+
+    #two-column-grid{
+        gap:7px;
+    }    
+    .first-half{    grid-column: 1/3;}
+    .second-half{    grid-column: 1/3;}
+    
     
     /* text boxes -----------------------*/
 
