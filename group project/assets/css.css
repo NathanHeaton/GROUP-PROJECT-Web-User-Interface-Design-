@@ -807,7 +807,23 @@ color: rgb(0, 0, 0);
     color: white;
 }
 
-/**/
+/*Contact page css*/
+
+#contact-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    gap:15px;
+}
+
+#contact-title{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    margin: 10px;
+}
+
+h2{
+font-size: 30px;
+}
 
 /* Mobile resposive */
 .mobile{
