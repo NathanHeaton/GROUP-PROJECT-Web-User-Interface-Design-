@@ -652,6 +652,12 @@ color: rgb(0, 0, 0);
     color: white;
 }
 
+.Step-image-1
+{
+    padding-left: 250px;
+}
+
+
 .Steps-2
 {
     gap: 10px;
@@ -675,6 +681,12 @@ color: rgb(0, 0, 0);
     color: white;
 }
 
+.Step-image-2
+{
+    padding-left: 250px;
+}
+
+
 .Steps-3
 {
     gap: 10px;
@@ -696,6 +708,11 @@ color: rgb(0, 0, 0);
     font-size: 20px;/*size*/
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
+}
+
+.Step-image-3
+{
+    padding-left: 250px;
 }
 
 .Steps-4
@@ -744,6 +761,12 @@ color: rgb(0, 0, 0);
     color: white;
 }
 
+.Step-image-5
+{
+    padding-left: 100px;
+}
+
+
 .Steps-6
 {
     gap: 10px;
@@ -766,6 +789,12 @@ color: rgb(0, 0, 0);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
 }
+
+.Step-image-6
+{
+    padding-left: 100px;
+}
+
 
 .Benefits
 {
