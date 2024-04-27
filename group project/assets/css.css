@@ -246,353 +246,12 @@ color: rgb(0, 0, 0);
 }
 /* user experience page  ------------------------------ */
 
-.intro
+.text-box-ux
 {
-    gap: 10px; 
-
+    gap: 15px; 
+    padding-top: 30px;
 }
 
-.intro-1
-{
-    padding: 10px;
-}
-
-.intro-1 h1
-{
-    text-align: center;
-    font-size: 40px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-}
-
-.intro-1 p
-{
-    text-align: left;
-    font-size: 20px;/*size*/
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-}
-
-.benefits
-{
-    gap: 10px; 
-}
-
-.benefits h1
-{
-    text-align: center;
-    font-size: 35px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-}
-
-.benefits h2
-{
-    text-align: center;
-    font-size: 30px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-    padding-top: 20px;
-}
-
-
-.benefits p1
-{
-    text-align: left;
-    font-size: 20px;/*size*/
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-}
-
-.benefits h3
-{
-    text-align: center;
-    font-size: 30px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-    padding-top: 20px;
-}
-
-
-.benefits p2
-{
-    text-align: left;
-    font-size: 20px;/*size*/
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-}
-
-.benefits h4
-{
-    text-align: center;
-    font-size: 30px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-    padding-top: 20px;
-}
-
-
-.benefits p3
-{
-    text-align: left;
-    font-size: 20px;/*size*/
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-}
-
-.Key-Components-of-UX
-{
-    gap: 10px; 
-}
-
-.Key-Components-of-UX h1
-{
-    text-align: center;
-    font-size: 35px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-}
-
-.Key-Components-of-UX h2
-{
-    text-align: center;
-    font-size: 30px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-    padding-top: 20px;
-}
-
-
-.Key-Components-of-UX p1
-{
-    text-align: left;
-    font-size: 20px;/*size*/
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-}
-
-.Key-Components-of-UX h3
-{
-    text-align: center;
-    font-size: 30px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-    padding-top: 20px;
-}
-
-
-.Key-Components-of-UX p2
-{
-    text-align: left;
-    font-size: 20px;/*size*/
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-}
-
-.Key-Components-of-UX h4
-{
-    text-align: center;
-    font-size: 30px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-    padding-top: 20px;
-}
-
-
-.Key-Components-of-UX p3
-{
-    text-align: left;
-    font-size: 20px;/*size*/
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-}
-
-.Key-Components-of-UX h5
-{
-    text-align: center;
-    font-size: 30px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-    padding-top: 20px;
-}
-
-
-.Key-Components-of-UX p4
-{
-    text-align: left;
-    font-size: 20px;/*size*/
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-}
-
-.Key-Components-of-UX h6
-{
-    text-align: center;
-    font-size: 30px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-    padding-top: 20px;
-}
-
-
-.Key-Components-of-UX p5
-{
-    text-align: left;
-    font-size: 20px;/*size*/
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-}
-
-.Approach
-{
-    gap: 10px; 
-}
-
-.Approach h1
-{
-    text-align: center;
-    font-size: 35px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-}
-
-.Approach h2
-{
-    text-align: center;
-    font-size: 30px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-    padding-top: 20px;
-}
-
-.Approach p1
-{
-    text-align: left;
-    font-size: 20px;/*size*/
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-}
-
-.Approach h3
-{
-    text-align: center;
-    font-size: 30px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-    padding-top: 20px;
-}
-
-
-.Approach p2
-{
-    text-align: left;
-    font-size: 20px;/*size*/
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-}
-
-.Approach h4
-{
-    text-align: center;
-    font-size: 30px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-    padding-top: 20px;
-}
-
-
-.Approach p3
-{
-    text-align: left;
-    font-size: 20px;/*size*/
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-}
-
-.Approach h5
-{
-    text-align: center;
-    font-size: 30px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-    padding-top: 20px;
-}
-
-
-.Approach p4
-{
-    text-align: left;
-    font-size: 20px;/*size*/
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-}
-
-.Good-Example
-{
-    gap: 10px; 
-}
-
-.Good-Example h1
-{
-    text-align: center;
-    font-size: 30px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-    padding-top: 20px;
-}
-
-.Good-Example p1
-{
-    text-align: left;
-    font-size: 20px;/*size*/
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-}
- 
-.Bad-Example
-{
-    gap: 10px; 
-}
-
-.Bad-Example h1
-{
-    text-align: center;
-    font-size: 30px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-    padding-top: 20px;
-}
-
-.Bad-Example p1
-{
-    text-align: left;
-    font-size: 20px;/*size*/
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-}
-
-.Ending
-{
-    gap: 10px;  
-}
-
-.Ending h1
-{
-    text-align: center;
-    font-size: 30px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-    padding-top: 20px;
-}
-
-.Ending p1
-{
-    text-align: left;
-    font-size: 20px;/*size*/
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-    padding-bottom: 50px;
-}
 /**/
 
 /* Wireframe page  ------------------------------ */
@@ -603,14 +262,7 @@ color: rgb(0, 0, 0);
     padding:10px ;
 }
 
-.Opening-1 h1
-{
-    text-align: center;
-    font-size: 30px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-    padding-top: 20px;
-}
+
 
 .Opening-1 p
 {
@@ -626,153 +278,15 @@ color: rgb(0, 0, 0);
     margin-right: auto;
 }
 
-.Steps-1 h1
-{
-    text-align: center;
-    font-size: 30px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-    padding-top: 20px;
-}
 
-.Steps-1 h2
-{
-    text-align: center;
-    font-size: 30px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-    padding-top: 20px;
-}
 
-.Steps-1 ul
+ul
 {
-    text-align: left;
-    font-size: 20px;/*size*/
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
 }
 
 
-
-.Steps-2
-{
-    gap: 10px;
-    padding:10px ;
-}
-
-.Steps-2 h1
-{
-    text-align: center;
-    font-size: 30px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-    padding-top: 20px;
-}
-
-.Steps-2 ul
-{
-    text-align: left;
-    font-size: 20px;/*size*/
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-}
-
-
-
-.Steps-3
-{
-    gap: 10px;
-    padding:10px ;
-}
-
-.Steps-3 h1
-{
-    text-align: center;
-    font-size: 30px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-    padding-top: 20px;
-}
-
-.Steps-3 ul
-{
-    text-align: left;
-    font-size: 20px;/*size*/
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-}
-
-
-.Steps-4
-{
-    gap: 10px;
-    padding:10px ;
-}
-
-.Steps-4 h1
-{
-    text-align: center;
-    font-size: 30px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-    padding-top: 20px;
-}
-
-.Steps-4 ul
-{
-    text-align: left;
-    font-size: 20px;/*size*/
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-}
-
-.Steps-5
-{
-    gap: 10px;
-    padding:10px ;
-}
-
-.Steps-5 h1
-{
-    text-align: center;
-    font-size: 30px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-    padding-top: 20px;
-}
-
-.Steps-5 ul
-{
-    text-align: left;
-    font-size: 20px;/*size*/
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-}
-
-
-
-.Steps-6
-{
-    gap: 10px;
-    padding:10px ;
-}
-
-.Steps-6 h1
-{
-    text-align: center;
-    font-size: 30px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-    padding-top: 20px;
-}
-
-.Steps-6 ul
-{
-    text-align: left;
-    font-size: 20px;/*size*/
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-}
 
 /* for images in UX page */
 .Step-image
@@ -789,50 +303,12 @@ color: rgb(0, 0, 0);
     padding:10px ;
 }
 
-.Benefits h1
-{
-    text-align: center;
-    font-size: 30px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-    padding-top: 20px;
-}
-
-.Benefits ul
-{
-    text-align: left;
-    font-size: 20px;/*size*/
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-}
-
-.b
-{
-    color: white;
-}
-
 .Mistakes
 {
     gap: 10px;
     padding:10px ;
 }
 
-.Mistakes h1
-{
-    text-align: center;
-    font-size: 30px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-    padding-top: 20px;
-}
-
-.Mistakes ul
-{
-    text-align: left;
-    font-size: 20px;/*size*/
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-}
 
 .End
 {
@@ -840,22 +316,6 @@ color: rgb(0, 0, 0);
     padding:10px ;
 }
 
-.End h1
-{
-    text-align: center;
-    font-size: 30px;/*size*/
-    font-family:'Source Sans Pro', sans-serif;
-    color: white;
-    padding-top: 20px;
-}
-
-.End p
-{
-    text-align: left;
-    font-size: 20px;/*size*/
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-}
 
 /*Contact page css*/
 
@@ -872,7 +332,7 @@ color: rgb(0, 0, 0);
 }
 
 h2{
-font-size: 30px;
+font-size: 25px;
 }
 
 
@@ -991,6 +451,12 @@ font-size: 30px;
     .Step-image
     {
         width: 100%;
+    }
+
+    .text-box-ux
+    {
+        gap: 7px; 
+        padding-top: 20px;
     }
 }
 
