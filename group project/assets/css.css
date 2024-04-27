@@ -652,11 +652,6 @@ color: rgb(0, 0, 0);
     color: white;
 }
 
-.Step-image-1
-{
-    margin-left: auto;
-    margin-right: auto;
-}
 
 
 .Steps-2
@@ -682,11 +677,6 @@ color: rgb(0, 0, 0);
     color: white;
 }
 
-.Step-image-2
-{
-    margin-left: auto;
-    margin-right: auto;
-}
 
 
 .Steps-3
@@ -712,11 +702,6 @@ color: rgb(0, 0, 0);
     color: white;
 }
 
-.Step-image-3
-{
-    margin-left: auto;
-    margin-right: auto;
-}
 
 .Steps-4
 {
@@ -764,11 +749,6 @@ color: rgb(0, 0, 0);
     color: white;
 }
 
-.Step-image-5
-{
-    margin-left: auto;
-    margin-right: auto;
-}
 
 
 .Steps-6
@@ -794,9 +774,12 @@ color: rgb(0, 0, 0);
     color: white;
 }
 
-.Step-image-6
+/* for images in UX page */
+.Step-image
 {
-    padding-left: 100px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
@@ -1005,8 +988,10 @@ font-size: 30px;
         padding-bottom: 10vh;
     }
 
-
-
+    .Step-image
+    {
+        width: 100%;
+    }
 }
 
 /* small desktop screens tablets*/
